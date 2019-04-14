@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555253654 source:/Users/admin/Desktop/writter/NairobiTechWeek/main.c
+	<stdio.h>
+	<curl/curl.h>
+
